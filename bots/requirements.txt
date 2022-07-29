@@ -324,3 +324,11 @@ yarl==1.7.2; python_version >= "3.7" and python_full_version >= "3.8.0"
 yfinance==0.1.72
 zipp==3.8.0; python_version < "3.10" and python_version >= "3.7"
 zope.interface==5.4.0; python_version >= "3.5" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.5"
+poetry
+uvicorn
+disnake
+fastapi
+pyimgur
+natsort
+kaliedo
+undetected_chromedriver
